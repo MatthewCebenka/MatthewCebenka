@@ -6,7 +6,7 @@ https://github.com/Ileriayo/markdown-badges
 -->
 
 <h2 align="center">
-  👋 Hi ! I'm a Web & Mobile Developer.
+  👋 Hi, I'm a Web & Mobile Developer.
 </h2>
 
  <p align="center">
