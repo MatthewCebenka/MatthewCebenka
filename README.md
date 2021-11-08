@@ -5,10 +5,6 @@ https://github.com/Ileriayo/markdown-badges
   + https://simpleicons.org/ for other icons
 -->
 
-<h2 align="center">
-  👋 Hi, I'm a Web & Mobile Developer.
-</h2>
-
  <p align="center">
  <a href="https://twitter.com/MCebenka">
    <img alt="Twitter" src="https://img.shields.io/badge/@MCebenka%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
