@@ -15,7 +15,7 @@ https://github.com/Ileriayo/markdown-badges
  </p>
 
 <h3 align="center">
-  I mostly use:
+  I mostly use
 </h3>
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
